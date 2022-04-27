@@ -1,4 +1,4 @@
-# Rearrange gallery images using React Beautiful DnD
+# Rearrange gallery images using React DnD
 
 ### Project Demo
 
@@ -8,7 +8,7 @@
 
 ### Project Description
 
-React Beautiful DnD is a beautiful and accessible drag and drop library that enables you build interactive experiences with React. This library is created by Atlassian, the team behind some of the awesome tools that are in use today like Trello, Jira, and so on. Get started with the library [here](https://github.com/atlassian/react-beautiful-dnd)
+React DnD is a beautiful and accessible drag and drop library that enables you build interactive experiences with React.
 
 ### Project setup
 
@@ -22,8 +22,8 @@ yarn install
 
 ### Dependencies
 
-- react-beautiful-dnd
-- lodash
+- react-dnd
+- react-dnd-html5-backend
 
 ### Author
 
