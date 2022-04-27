@@ -5,7 +5,6 @@ export default [
     subtitle: 'Lost in the city is where I found myself',
     img:
       'https://res.cloudinary.com/terieyenike/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1649443651/react%20dnd/DTS_The_Green_Copson_Londan_5077.jpg',
-    position: 1,
   },
   {
     id: 2,
@@ -13,7 +12,6 @@ export default [
     subtitle: 'Guide to Iceland',
     img:
       'https://res.cloudinary.com/terieyenike/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1649443650/react%20dnd/DTS_Closer_Parole_Dure_5144.jpg',
-    position: 2,
   },
   {
     id: 3,
@@ -21,7 +19,6 @@ export default [
     subtitle: 'A lost city on the rolling hills',
     img:
       'https://res.cloudinary.com/terieyenike/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1649443650/react%20dnd/DTS_Misc_1__Nich_Fancher__Nick_Fancher_4532.jpg',
-    position: 3,
   },
   {
     id: 4,
@@ -29,15 +26,13 @@ export default [
     subtitle: 'Top 10 things to consider when travelling',
     img:
       'https://res.cloudinary.com/terieyenike/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1649443800/react%20dnd/_MG_9747_nk0tz2_c_scale_w_509.jpg',
-    position: 4,
   },
   {
     id: 5,
     title: 'CSS Grid',
-    subtitle: 'Style your web componenets faster',
+    subtitle: 'Style your web components faster',
     img:
       'https://res.cloudinary.com/terieyenike/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1649443651/react%20dnd/DTS_Pride_AgustA%CC%83_n_Farias_5543.jpg',
-    position: 5,
   },
   {
     id: 6,
@@ -45,7 +40,6 @@ export default [
     subtitle: 'Hands on review with the best gimbal',
     img:
       'https://res.cloudinary.com/terieyenike/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1642955238/image-placeholders/teri.jpg',
-    position: 6,
   },
   {
     id: 7,
@@ -53,7 +47,6 @@ export default [
     subtitle: 'Be innovative',
     img:
       'https://res.cloudinary.com/terieyenike/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1649443800/react%20dnd/teri_mgjkie_c_scale_w_527.jpg',
-    position: 7,
   },
   {
     id: 8,
@@ -61,7 +54,6 @@ export default [
     subtitle: 'Create awesome experience',
     img:
       'https://res.cloudinary.com/terieyenike/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1649432567/react%20dnd/pexels-vitalina-9197509.jpg',
-    position: 8,
   },
   {
     id: 9,
@@ -69,6 +61,5 @@ export default [
     subtitle: 'Transition to a better and comfy style',
     img:
       'https://res.cloudinary.com/terieyenike/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1649432565/react%20dnd/pexels-ali-pazani-3280132.jpg',
-    position: 9,
   },
 ];
